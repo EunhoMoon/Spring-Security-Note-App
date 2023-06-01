@@ -19,11 +19,6 @@ public class AdminController {
 
     private final NoteService noteService;
 
-    /**
-     * 어드민인 경우 노트 조회
-     *
-     * @return admin/index.html
-     */
     @GetMapping
     public String getNoteForAdmin(Authentication authentication, Model model) {
         User user = (User) authentication.getPrincipal();
@@ -31,4 +26,5 @@ public class AdminController {
         model.addAttribute("notes", notes);
         return "admin/index";
     }
+
 }
