@@ -1,4 +1,4 @@
-package me.janek.toy.spring.security.note;
+package me.janek.note.note;
 
 import lombok.Getter;
 import lombok.Setter;

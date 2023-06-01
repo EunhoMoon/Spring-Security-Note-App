@@ -1,4 +1,4 @@
-package me.janek.toy.spring.security.user;
+package me.janek.note.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

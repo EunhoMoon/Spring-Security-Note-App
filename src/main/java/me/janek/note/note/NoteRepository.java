@@ -1,6 +1,6 @@
-package me.janek.toy.spring.security.note;
+package me.janek.note.note;
 
-import me.janek.toy.spring.security.user.User;
+import me.janek.note.user.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

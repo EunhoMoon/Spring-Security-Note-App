@@ -1,4 +1,4 @@
-package me.janek.toy.spring.security.user;
+package me.janek.note.user;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;

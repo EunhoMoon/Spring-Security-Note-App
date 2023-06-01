@@ -1,8 +1,8 @@
-package me.janek.toy.spring.security.note;
+package me.janek.note.note;
 
 import lombok.RequiredArgsConstructor;
-import me.janek.toy.spring.security.user.User;
-import me.janek.toy.spring.security.user.UserNotFoundException;
+import me.janek.note.user.User;
+import me.janek.note.user.UserNotFoundException;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.domain.Sort.Direction;
 import org.springframework.stereotype.Service;

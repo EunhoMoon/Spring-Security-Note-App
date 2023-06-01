@@ -1,8 +1,8 @@
-package me.janek.toy.spring.security.config;
+package me.janek.note.config;
 
 import lombok.RequiredArgsConstructor;
-import me.janek.toy.spring.security.user.User;
-import me.janek.toy.spring.security.user.UserService;
+import me.janek.note.user.User;
+import me.janek.note.user.UserService;
 import org.springframework.boot.autoconfigure.security.servlet.PathRequest;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,5 +1,7 @@
 package me.janek.toy.spring.security.notice;
 
+import me.janek.note.notice.Notice;
+import me.janek.note.notice.NoticeRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

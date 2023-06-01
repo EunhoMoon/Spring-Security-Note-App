@@ -1,7 +1,7 @@
-package me.janek.toy.spring.security.note;
+package me.janek.note.note;
 
 import lombok.RequiredArgsConstructor;
-import me.janek.toy.spring.security.user.User;
+import me.janek.note.user.User;
 import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

@@ -1,9 +1,9 @@
-package me.janek.toy.spring.security.note;
+package me.janek.note.note;
 
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import me.janek.toy.spring.security.user.User;
+import me.janek.note.user.User;
 import org.springframework.data.annotation.CreatedDate;
 import org.springframework.data.annotation.LastModifiedDate;
 import org.springframework.data.jpa.domain.support.AuditingEntityListener;

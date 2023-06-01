@@ -1,11 +1,11 @@
-package me.janek.toy.spring.security;
+package me.janek.note;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringSecurityPracticeApplication {
+public class NoteApplication {
     public static void main(String[] args) {
-        SpringApplication.run(SpringSecurityPracticeApplication.class, args);
+        SpringApplication.run(NoteApplication.class, args);
     }
 }

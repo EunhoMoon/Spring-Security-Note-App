@@ -1,4 +1,4 @@
-package me.janek.toy.spring.security.notice;
+package me.janek.note.notice;
 
 import lombok.AccessLevel;
 import lombok.Getter;

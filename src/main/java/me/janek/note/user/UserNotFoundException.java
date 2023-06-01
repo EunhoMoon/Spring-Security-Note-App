@@ -1,4 +1,4 @@
-package me.janek.toy.spring.security.user;
+package me.janek.note.user;
 
 /**
  * 유저를 찾을 수 없을 때 발생하는 Exception

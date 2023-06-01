@@ -1,5 +1,8 @@
 package me.janek.toy.spring.security.user;
 
+import me.janek.note.user.User;
+import me.janek.note.user.UserRepository;
+import me.janek.note.user.UserService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

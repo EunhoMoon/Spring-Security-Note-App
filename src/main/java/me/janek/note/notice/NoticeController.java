@@ -1,7 +1,7 @@
-package me.janek.toy.spring.security.notice;
+package me.janek.note.notice;
 
 import lombok.RequiredArgsConstructor;
-import me.janek.toy.spring.security.note.NoteRegisterDto;
+import me.janek.note.note.NoteRegisterDto;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;

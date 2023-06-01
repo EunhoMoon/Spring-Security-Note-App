@@ -1,4 +1,4 @@
-package me.janek.toy.spring.security.config;
+package me.janek.note.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;

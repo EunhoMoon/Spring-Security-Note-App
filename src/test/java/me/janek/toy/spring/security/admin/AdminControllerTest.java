@@ -1,7 +1,7 @@
 package me.janek.toy.spring.security.admin;
 
-import me.janek.toy.spring.security.user.User;
-import me.janek.toy.spring.security.user.UserRepository;
+import me.janek.note.user.User;
+import me.janek.note.user.UserRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

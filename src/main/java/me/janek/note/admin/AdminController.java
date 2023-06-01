@@ -1,9 +1,9 @@
-package me.janek.toy.spring.security.admin;
+package me.janek.note.admin;
 
 import lombok.RequiredArgsConstructor;
-import me.janek.toy.spring.security.note.Note;
-import me.janek.toy.spring.security.note.NoteService;
-import me.janek.toy.spring.security.user.User;
+import me.janek.note.note.Note;
+import me.janek.note.note.NoteService;
+import me.janek.note.user.User;
 import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
