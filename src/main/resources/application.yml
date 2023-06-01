@@ -1,9 +1,8 @@
-# logging 레벨 설정
 logging:
   level:
     root: INFO
     sql: ERROR
-# Overloaded POST 사용
+# Overloaded POST
 spring:
   mvc:
     hiddenmethod:
@@ -13,4 +12,4 @@ spring:
 server:
   servlet:
     session:
-      timeout: 10m # 기본이 30분이고 최소는 1분입니다.
+      timeout: 10m
